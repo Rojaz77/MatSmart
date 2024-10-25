@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806511071186",
+    "firebase_url": "https://matsmart-default-rtdb.firebaseio.com",
+    "project_id": "matsmart",
+    "storage_bucket": "matsmart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806511071186:android:ad8ae118dcc4bd486fc20b",
+        "android_client_info": {
+          "package_name": "com.worldkonnect.matsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806511071186-buq97f85khnjjmfobekkufrbo28bm4rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.worldkonnect.matsmart",
+            "certificate_hash": "baec139850d385e25a1fa94cd047525888887d51"
+          }
+        },
+        {
+          "client_id": "806511071186-24f4s2d2fc255akblda27pfp5jilrkf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPl9EahBeW2ouKagp_0zXAj-Gw3l9kWgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806511071186-0mul8ihj08j6uv6bkacp031fne3cslk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
